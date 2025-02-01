@@ -1,8 +1,30 @@
-# React + Vite
+# MovieMania
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React quick mini-app for discovering and saving your favorite movies. Built with Vite and React 18.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse popular movies
+- Search for specific movies
+- Save favorites to local storage
+- Responsive design
+
+## Tech Stack
+
+- React 18
+- React Router
+- Vite
+- TMDB API
+
+## Development
+
+```sh
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
+
+# Build for production
+npm run build
+```
