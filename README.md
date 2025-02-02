@@ -1,5 +1,3 @@
-# MovieMania
-
 A React quick mini-app for discovering and saving your favorite movies. Built with Vite and React 18.
 
 ## Features

@@ -1,6 +1,6 @@
-import MCard from "../components/MCard";
 import { useState, useEffect } from 'react';
 import { getPopMovies, searchMovies } from '../services/api';
+import MCard from "../components/MCard";
 
 
 function Home() {
